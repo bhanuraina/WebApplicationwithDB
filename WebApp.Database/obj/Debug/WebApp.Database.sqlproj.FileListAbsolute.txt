@@ -1,0 +1,10 @@
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\bin\Debug\WebApp.Database.dacpac
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\bin\Debug\WebApp.Database.dll
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\bin\Debug\WebApp.Database.pdb
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\obj\Debug\WebApp.Database.sqlprojAssemblyReference.cache
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\obj\Debug\Model.xml
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\obj\Debug\refactor.xml
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\obj\Debug\postdeploy.sql
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\obj\Debug\predeploy.sql
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\obj\Debug\WebApp.Database.dll
+C:\Users\bhanu\source\repos\WebApplicationwithDB\WebApp.Database\obj\Debug\WebApp.Database.pdb

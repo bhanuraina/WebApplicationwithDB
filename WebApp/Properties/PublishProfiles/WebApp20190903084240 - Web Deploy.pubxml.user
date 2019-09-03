@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA8tDLmaSoQEGlchjlIvjUfwAAAAACAAAAAAAQZgAAAAEAACAAAAAmGaumPGw1Ln2Izwy5nEpiMQEBzgYqnOp6eJttaUKYxwAAAAAOgAAAAAIAACAAAABq05wkThdpyf7to5XGlffD28M9sxDspz3mRiDqQ/ofGoAAAAD5BLC8YlkolNY/+7pEY3BuwtfL9098+gPYRP9QDDGPce1gQF5fRur4bwfFCUbS93dDme2tZ+Ql27349wXIUvL/DwN9rK0GYg/vO9Dqz/GcwcUuU/UMoLRDUjExGdoJ+CSxh7JLon4p20BjdmIp0wU9Ku5KlqIGjLb0y6YCzrdI1UAAAABGhwDR36OwMopK4CMug/tp+iMYs9ZKO96JUSlhmJ7DhKCK0FiUFCKDqvDZBAcu3KtYULiWmALBXaMyLZDTE0aM</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="WebAppContext">
+      <Value>Server=tcp:webappwithdatabase.database.windows.net,1433%3bInitial Catalog=webappwithdatabase-server%3bPersist Security Info=False%3bUser ID=Admin_1%3bPassword=James#12345678%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="WebApp.Models.WebAppContext">
+      <Value>Server=tcp:webappwithdatabase.database.windows.net,1433%3bInitial Catalog=webappwithdatabase-server%3bPersist Security Info=False%3bUser ID=Admin_1%3bPassword=James#12345678%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
